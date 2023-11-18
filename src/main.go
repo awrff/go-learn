@@ -44,5 +44,10 @@ func main() {
 	// structMapTest()
 
 	// AnimalTest()
-	multiStructJson()
+	// multiStructJson()
+
+	// myFuncTest()
+	// closureTest()
+
+	deferTest()
 }
